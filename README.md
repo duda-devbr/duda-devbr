@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou a Duda 👋
 
-<!--
-**duda-devbr/duda-devbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+Estou em constante aprendizado na área de Tecnologia da Informação, com interesse em programação, desenvolvimento de sistemas e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou aprendendo
+- Python
+- Java
+- JavaScript
+- HTML e CSS
+- SQL
+
+### 🛠️ Ferramentas e conhecimentos
+- Microsoft Excel
+- Microsoft Word
+- Power BI
+- Rotinas administrativas e financeiras
+
+### 📚 Atualmente estou estudando
+- Desenvolvimento Full Stack
+- Lógica de programação
+- Desenvolvimento de projetos
+- Inglês
+
+### 🎯 Meu objetivo
+Desenvolver minhas habilidades, construir projetos práticos e conquistar novas oportunidades profissionais na área de tecnologia.
+
+---
+
+✨ Sempre aprendendo e evoluindo!
